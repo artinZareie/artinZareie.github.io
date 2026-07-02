@@ -1,7 +1,7 @@
 ---
 title: "Building a Simple Compiler Backend"
 date: 2026-07-02
-draft: false
+draft: true
 
 description: "Experiments with instruction scheduling and register allocation."
 

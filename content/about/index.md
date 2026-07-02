@@ -1,7 +1,10 @@
 ---
 title: "About"
 hero: "Shiraz_University.jpg"
-tags: ["hi", "bye"]
+
+date: 2026-07-02
+
+showAuthor: false
 
 ---
 

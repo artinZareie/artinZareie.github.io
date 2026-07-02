@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HPC on Artin Zarei&#39;s Logs</title>
+    <link>http://localhost:33927/series/hpc/</link>
+    <description>Recent content in HPC on Artin Zarei&#39;s Logs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>artin.zarei2004@gmail.com (Artin Zarei)</managingEditor>
+    <webMaster>artin.zarei2004@gmail.com (Artin Zarei)</webMaster>
+    <copyright>© 2026 Artin Zarei</copyright>
+    <atom:link href="http://localhost:33927/series/hpc/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

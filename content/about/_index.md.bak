@@ -1,0 +1,80 @@
+---
+title: "About"
+---
+
+## What is this website?
+
+This is my personal blog/website. This is, by no means, a professional website. I might share about my diaries and some niche technical topics at the same time. Although, I would like to share about my profession too!
+So, please do not think of this website as a professional website and stay tuned for my posts. This is just my hobby.
+
+## Hello, I am Artin, and...
+
+I'm a CSE (Computer Science & Engineering) Bachelor's student at Shiraz University. I began my program in 2023 and expect to graduate by 2027.
+
+{{<figure src="Shiraz_University.jpg" caption="Just in case you might ask: yes, we have to climb the mountain to reach most faculties.">}}
+
+Computer Science is my primary passion, but I am also drawn to natural sciences (specially Biology), History, and Linguistics. If I find some free time, I make sure to study about these topics, and share interesting things I find on here.
+
+## My current focus
+
+Currently, I am focused on 2 areas:
+
+1) Code Generation using LLMs; 
+2) Computer Vision applications in Medical Engineering.
+
+## My Hobbies
+
+Other than those interests, I like:
+
+1) **Anime & Light Novels**: Who doesn't like a well-written story?
+2) **Learning Languages**: I like studying Japanese and German languages. 日本語が好き. Und ich mag Deutsch.
+3) **Playing Games**: Still stuck in "Age of Empires: Rise of Roman Empire". I like being Hannibal the most.
+4) **Music**: All kinds of it, Japanese pop, roch, metal, German metal.
+
+---
+
+# Boring Zone!
+
+This part is just oversharing unimportant stuff.
+
+## My Journey From Beginning 
+
+I started learning using computers before I could even read. My father taught me how to play "Age of Empires" when I was really young. I continued using them like any other kid, and I started learning about programming around my 4th grade.
+
+At that stage, I had a dream of "making games". My father tried to teach me fundamentals of QBasic, so he did.
+I stopped learning QBasic, in favor of Visual Basic. Isn't that great? Ancient languages? At the time, I was 12.
+
+By then, I got a gift from my family: a "Unity Tutorial" CD. I tried to learn about it, but failed because I didn't know C#.
+
+That was when I searched for a C# course in my hometown, and I couldn't find one. So what did I do? I booked a class I _could_ find; PHP/HTML/CSS/JS. I went there for 12 sessions, and after that, I completely switched to online learning through W3School translations and documentations.
+
+### High-school Era
+
+I was a "web boy" during my middle school era, but in the middle of my 9th grade, I made a challenge for myself: learn about how computers can possibly talk.
+I asked in a few forums, and found out that Andrew Ng's ML course on Coursera is almost the perfect entry point. So I audited his course, and started watching it.
+
+A boy my age did know about derivatives and line equation, but he didn't know ANYTHING about linear regression, linear algebra or anything like that.
+Fortunately, I had my father and mother supporting me, and I appreciate their existence to this day.
+
+So, what did I do? Give up? **Never**. My father bought me a few books: "Linear Algebra: O'Nan, Michael", and 3 "Numerical Analysis & Methods" books for interpolation, regression and so.
+I stopped programming for a while, and studied what my dad gave me.
+I studied what my dad gave me to study, I learned about Gaussian Elimination, linear independence, and so on, implemented them in GNU Octave! Good ol' days.
+Then, for high school, I chose "Natural Sciences" over "Math", and I studied biology university books for "Biology Olympiad". I had spent a lot of time on biology I had little time for programming.
+But fortunately, the map overlapped with what I was studying heavily. Biology Olympiad, unlike its name, is math heavy in Iran. It had:
+- Differential equations (for Ecology),
+- Combinatorics and Discrete Math (for Classical Genetics)
+- Statistics and Regression (for Statistics of populations, etc.)
+
+I studied a lot of biology books, ranging from "Guyton's Medical Physiology" to "Simpson's Plant Systematics". That's still my hobby. I like biology very much.
+
+In parallel, I sometimes continued Andrew Ng's Deep Learning course when I found some free time.
+
+
+### Back to Computers!
+
+In the last year on my high-school, I had a sudden change of heart: I liked biology, but I didn't want to be a doctor.
+So I changed my major to "Math & Physics" for my last year, and then, was accepted in CSE in Shiraz University (for your reference, in Iran, CSE is more popular than CS).
+
+---
+
+Hope you'll enjoy my website!

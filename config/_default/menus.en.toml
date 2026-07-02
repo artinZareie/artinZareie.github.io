@@ -19,5 +19,15 @@ pageRef = "projects"
 identifier = "GfRnqodoYh"
 weight = 3
 
+
 [[footer]]
-none = "none"
+# none = "none"
+name = "Blog RSS"
+url = "/blog/index.xml"
+weight = 50
+
+[[footer]]
+# none = "none"
+name = "My Github"
+url = "https://github.com/artinZareie"
+weight = 1

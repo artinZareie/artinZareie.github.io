@@ -10,9 +10,12 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 
-[params.author]
-name = "Artin Zarei"
-email = "artin.zarei2004@gmail.com"
-bio = "I am just another Computer Science & Engineering student, sharing my adventures and interests on my personal blog. Welcome to my realm!"
-image = "me.jpg"
-imageQuality = ""
+  [params.author]
+  name = "Artin Zarei"
+  email = "artin.zareie@yahoo.com"
+  bio = "I am just another Computer Science & Engineering student, sharing my adventures and interests on my personal blog. Welcome to my realm!"
+  image = "me.jpg"
+  imageQuality = ""
+
+["params.author"]
+email = "artin.zareie@yahoo.com"

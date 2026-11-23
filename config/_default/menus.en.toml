@@ -19,15 +19,18 @@ pageRef = "projects"
 identifier = "GfRnqodoYh"
 weight = 3
 
-
 [[footer]]
-# none = "none"
 name = "Blog RSS"
 url = "/blog/index.xml"
-weight = 50
+weight = 2
 
 [[footer]]
-# none = "none"
 name = "My Github"
 url = "https://github.com/artinZareie"
 weight = 1
+
+[[footer]]
+name = "My Mail"
+url = "mailto:artin.zareie@yahoo.com"
+identifier = "6uJxOdxBbJ"
+weight = 3
